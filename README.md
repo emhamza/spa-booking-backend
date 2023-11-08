@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <h3><b>The Spa Api</b></h3>
+  <h3><b>The Spa Booking Api</b></h3>
 
 </div>
 
